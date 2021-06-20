@@ -19,9 +19,9 @@ Versie 2: Pixel art waarbij je met muis en keyboard een pixel raster kan tekenen
 
 Je kan de kleuren in de raster aanpassen via een slider RGBA en het laatste slider is de hoeveel het randomness in een raster toevoegen. Verder kan je met de keyfuncties BACKSPACE je raster random laten inladen en er komt altijd weer een nieuwe raster te zien. Met de ARROW keys kan je de raster verplaatsen. links rechts boven of beneden it's all your choice.
 
-Input: Mouse and key
+## Input: Mouse and key
 (Works)
-Input failed to implement: Sound
+## Input failed to implement: Sound
 Reason failure: code maybe to complex for me, or needed more time to work on it.
 
 ## Onderzoek & inspiratie
