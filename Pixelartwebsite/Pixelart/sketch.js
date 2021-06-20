@@ -1,6 +1,6 @@
 /**
- *  Author      : Oemar Alkatiri
- *  Date        : 20 juni 2021
+ *  Author              : Oemar Alkatiri
+ *  Last update         : 20 juni 2021
  *
  *  sketch.js:
  *  Maakt een raster aan waarin je met de muis de vakken kan
