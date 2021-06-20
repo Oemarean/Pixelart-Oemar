@@ -25,7 +25,8 @@ Je kan de kleuren in de raster aanpassen via een slider RGBA en het laatste slid
 Reason failure: code maybe to complex for me, or needed more time to work on it.
 
 ## Onderzoek & inspiratie
-Koos voor een pixelart omdat games mij het meeste aantrokken. Ik vind de wijze hoe je een creatie random kon maken met pixe wel intressant. 
+Koos voor een pixelart omdat games mij het meeste aantrokken. Ik vind de wijze hoe je een creatie random kon maken met pixel wel intressant. 
+Deed veel onderzoek op reddit voor inspiratie en hoe sommige een intressante pixelart kon maken.
 
 ## Voortang
 
