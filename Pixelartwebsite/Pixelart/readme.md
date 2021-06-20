@@ -3,39 +3,47 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
-* **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
-* **Startniveau:** `blauw/rood/zwart`
+* **Naam:** Oemar Alkatiri
+* **Klas:** VID 2
+* **Minor:** Visual Interface Design
+* **Favoriete dier:** Owl, because they are cool
+* **Startniveau:** Middle of the pack
 
 ## Concept
 
-`Beschrijf in het algemeen je concept van je project.`
+Originele concept was dat je aan de hand van een pixelart raster je een afbeelding kan inladen en die vervolgens kan pixelaten. 
+
+Versie 2: Pixel art waarbij je met muis en keyboard een pixel raster kan tekenen.
 
 ## Features
 
-`Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
+Je kan de kleuren in de raster aanpassen via een slider RGBA en het laatste slider is de hoeveel het randomness in een raster toevoegen. Verder kan je met de keyfuncties BACKSPACE je raster random laten inladen en er komt altijd weer een nieuwe raster te zien. Met de ARROW keys kan je de raster verplaatsen. links rechts boven of beneden it's all your choice.
+
+Input: Mouse and key
+(Works)
+Input failed to implement: Sound
+Reason failure: code maybe to complex for me, or needed more time to work on it.
 
 ## Onderzoek & inspiratie
-`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
+Koos voor een pixelart omdat games mij het meeste aantrokken. Ik vind de wijze hoe je een creatie random kon maken met pixe wel intressant. 
 
 ## Voortang
 
-`Schrijf hier een klein logboekje met je voortgang per week.`
 
 ### Week-1
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Functionaliteiten gemaakt van een pixelart men kan nu alleen clicken in een raster met een random kleur.
+Probeer een beetje het random erin toe te voegen.
 
 ### Week-2
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Het random is toegevoegd maar is nog veels te simpel. Is nog niet spanned genoeg voor een generative art.
 
 ### Week-3
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Heb nu 2 functies die ik kan mergen maar heb enigzins moeite om die tot stand te laten komen. 
+Advies gekregen hoe ik het beter kan doen maar het inladen van een afbeelding gaat onmogelijk.
+
+### Week-4
+Geprobeerd met geluid nog wat te doen alhoewel ik paar codes heb kunnen vinden niet gelukt om iets daarvan te maken.
 
 
 ## Bronnenlijst
-
-* `Link naar bron 1`
-* `Link naar bron 2`
-* `Link naar bron 3`
+See code.
